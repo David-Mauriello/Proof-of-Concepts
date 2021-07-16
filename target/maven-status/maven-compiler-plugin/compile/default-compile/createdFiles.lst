@@ -1,1 +1,4 @@
+com\example\featurecreep\models\ERole.class
+com\example\featurecreep\models\User.class
 com\example\featurecreep\FeatureCreepApplication.class
+com\example\featurecreep\models\Role.class
